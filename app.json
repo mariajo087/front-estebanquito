@@ -1,5 +1,6 @@
 {
   "expo": {
+    "entryPoint": "./src/App.js",
     "name": "front-estebanquito",
     "slug": "front-estebanquito",
     "version": "1.0.0",
